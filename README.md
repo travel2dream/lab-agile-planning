@@ -1,2 +1,2 @@
-# lab-agile-planning
+# agile-final-project
 Test for Coursera
